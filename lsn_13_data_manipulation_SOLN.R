@@ -1,5 +1,5 @@
 ## SE370 AY21-2
-## Lesson 14 - Data Manipulation in Base R
+## Lesson 13 - Data Manipulation in Base R
 ## MAJ Williams
 
 # Read in the data for the Summer Olympics, Winter Olympics, and the dictionary
